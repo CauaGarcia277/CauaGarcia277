@@ -54,6 +54,13 @@ Estou focado em **aprendizado, conhecimento, solução de problemas**.
 
 ---
 
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CauaGarcia277&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaGarcia277&layout=compact&theme=tokyonight"/>
+</div>
+
 
 
 ⭐ Caso se interessou pelo meu perfil, considere ver os repositórios 😁
