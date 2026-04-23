@@ -3,7 +3,7 @@
 🚀 **Estudante de Engenharia de Software**  
 🇧🇷 Brazil
 
-Olá, me chamo Cauã e estou cursando **Engenharia de Software** na UMC, buscando **estágio** para áreas de **back-end** e **Dados**  
+Olá, me chamo Cauã e estou cursando **Engenharia de Software** na UMC, buscando **estágio** para áreas de **Dados**  
 Estou focado em **aprendizado, conhecimento, solução de problemas**.
 
 
