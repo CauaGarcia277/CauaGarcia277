@@ -1,6 +1,6 @@
 # Cauã Garcia
 
-🚀 **Estudante de Engenharia de Software**  
+**Estudante de Engenharia de Software**  
 🇧🇷 Brazil
 
 Olá, me chamo Cauã e estou cursando **Engenharia de Software** na UMC, buscando **estágio** para áreas de **Dados**  
@@ -30,11 +30,11 @@ Estou focado em **aprendizado, conhecimento, solução de problemas**.
 
 ## 🧠 Conhecimentos
 
--   ⚡ Aprendizado rápido
--   🏗️ Modelagem relacional e diagramas (MER, DER)
--   🧩 Conhecimento em DDL, DML e DQL
--   🔐 Comandos git
--   💳 Lógica de programação
+-    Aprendizado rápido
+-    Modelagem relacional e diagramas (MER, DER)
+-    Conhecimento em DDL, DML e DQL
+-    Comandos git
+-    Lógica de programação
 
 ---
 
