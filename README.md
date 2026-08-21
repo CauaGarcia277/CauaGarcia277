@@ -14,9 +14,6 @@ Estou focado em **aprendizado, conhecimento, solução de problemas**.
   <a href="https://github.com/CauaGarcia277">
     <img src="https://img.shields.io/badge/GitHub-GARCIACCAUA277-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/cauaz_gomes">
-    <img src="https://img.shields.io/badge/Instagram-@CAUAZ_GOMES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 
 
 <a href="https://www.linkedin.com/in/cauagarcia/">
